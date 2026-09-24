@@ -1,0 +1,1 @@
+/home/srk/Documents/FRD/backend/node_modules/@embedded-postgres/linux-x64/native/bin/postgres "-D" "/home/srk/Documents/FRD/backend/data/db" "-p" "5432"

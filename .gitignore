@@ -24,5 +24,8 @@ out/
 .vscode/
 .idea/
 
-# Docker persistent volume data
+# Docker & DB persistent data
 postgres_data/
+data/
+backend/data/
+scratch_pgdata/
